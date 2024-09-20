@@ -1,0 +1,19 @@
+{
+  "name": "forage-jpmc-swe-task-1",
+  "version": "1.0.0",
+  "description": "Starter repo for task 1 of the JPMC software engineering program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyettuhan213/forage-jpmc-swe-task-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyettuhan213/forage-jpmc-swe-task-1/issues"
+  },
+  "homepage": "https://github.com/nguyettuhan213/forage-jpmc-swe-task-1#readme"
+}
